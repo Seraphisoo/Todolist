@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  background-color: #6495ed;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#task {
+  width: 300px;
+  height: 30px;
+  margin-left: 17px;
+}
+#add {
+  background-color: bisque;
+  border: 0;
+  color: #6495ed;
+  padding: 10px 10px;
+  padding-right: 20px;
+  cursor: pointer;
+  margin-top: 30px;
+  font-weight: bold;
+}
+#wrapper {
+  width: 500px;
+  background-color: #e78aa6;
+  margin: 120px auto 30px auto;
+  padding: 20px 50px 20px 20px;
+  border-radius: 25px;
+}
+.remove {
+  margin-top: 13px;
+  background-color: #f2f205;
+  float: right;
+  clear: both;
+  padding-right: 20px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+ul {
+  text-align: left;
+  line-height: 35px;
+}
